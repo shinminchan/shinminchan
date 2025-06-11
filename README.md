@@ -1,4 +1,17 @@
-### 👋 Hello, I'm shinminchan
+## 👋 Hello, I'm shinminchan
+
+### 👨‍💻 About Me
+- - -
+안녕하세요 미래가 기대되는 개발자 "신민찬" 입니다.
+
+사용자입장에서 생각할 줄 아는 개발자![image](https://github.com/user-attachments/assets/4b45f439-3e36-4f24-87e8-8a1e8b05dd52)
+
+
+새로운 도전을 두려워하지 않습니다!
+
+현재에 머물러 있지 않고 나아가려고 노력하는 개발자입니다!
+
+배우는 걸 좋아해 무엇이든 배워서 실전에 활용할 수 있습니다!
 
 
 ### 💡 Activities
@@ -14,7 +27,7 @@
 
 
 
-#### 🛠️ Skills & Technologies
+### 🛠️ Skills & Technologies
 - - -
 
 * Back-End: 
