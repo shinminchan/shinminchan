@@ -41,7 +41,7 @@
 * Cloud: ![Naver Clova](https://img.shields.io/badge/NAVER_CLOVA-%46E3B7.svg?style=for-the-badge&logoColor=white)
 
 * Version Control:![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-#FF6C37?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 * LLM: RAG기반 LLM 챗봇 개발
 
