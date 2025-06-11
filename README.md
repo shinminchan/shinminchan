@@ -1,4 +1,4 @@
-## 👋 Hello, I'm shinminchan
+### 👋 Hello, I'm shinminchan
 
 
 ### 💡 Activities
@@ -25,7 +25,6 @@
 ![red](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![spring-security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Naver Clova](https://img.shields.io/badge/NAVER_CLOVA-%46E3B7.svg?style=for-the-badge&logoColor=white)
 
 #### 프론트
@@ -35,7 +34,7 @@
 ![next](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black")
 ### 💡 순서도
 
 - 고객
